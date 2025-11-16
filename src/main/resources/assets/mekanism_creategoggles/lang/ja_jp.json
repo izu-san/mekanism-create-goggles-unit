@@ -1,0 +1,8 @@
+{
+  "itemGroup.mekanism_creategoggles": "Mekanism: Create Goggles",
+  "item.mekanism_creategoggles.module_goggles_unit": "メカ・エンジニアゴーグルユニット",
+  "module.mekanism_creategoggles.goggles_unit": "エンジニアゴーグルユニット",
+  "description.mekanism_creategoggles.goggles_unit": "MekaSuitヘルメットに装着すると、視線先のCreate機械に対してエンジニアゴーグルと同じ情報HUDを表示します。"
+}
+
+

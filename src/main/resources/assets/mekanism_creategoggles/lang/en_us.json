@@ -1,0 +1,8 @@
+{
+  "itemGroup.mekanism_creategoggles": "Mekanism: Create Goggles",
+  "item.mekanism_creategoggles.module_goggles_unit": "Meka Engineer's Goggles Unit",
+  "module.mekanism_creategoggles.goggles_unit": "Engineer's Goggles Unit",
+  "description.mekanism_creategoggles.goggles_unit": "When installed in a MekaSuit helmet, shows Create's Engineer's Goggles HUD while looking at Create machines."
+}
+
+

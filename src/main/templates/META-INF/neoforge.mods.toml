@@ -77,12 +77,28 @@ description='''${mod_description}'''
     # Side this dependency is applied on - BOTH, CLIENT, or SERVER
     side="BOTH"
 
-# Here's another dependency
+# Minecraft dependency
 [[dependencies.${mod_id}]]
     modId="minecraft"
     type="required"
     # This version range declares a minimum of the current minecraft version up to but not including the next major version
     versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+# Create dependency (required)
+[[dependencies.${mod_id}]]
+    modId="create"
+    type="required"
+    versionRange="[6.0.8,6.1.0)"
+    ordering="NONE"
+    side="BOTH"
+
+# Mekanism dependency (required)
+[[dependencies.${mod_id}]]
+    modId="mekanism"
+    type="required"
+    versionRange="[10.7.17,10.8.0)"
     ordering="NONE"
     side="BOTH"
 

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "create:goggles" },
+    { "item": "mekanism:module_base" }
+  ],
+  "result": {
+    "id": "mekanism_creategoggles:module_goggles_unit",
+    "count": 1
+  }
+}
+
+
